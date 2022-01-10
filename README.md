@@ -7,4 +7,4 @@ Generate Wavelet Time-Frequency Representations.
 ## Step 3:
 Train a Pre-Trained Network (AlexNet).
 ## Step 4:
-Evaluate the trained model.
+Evaluate the Trained Model.
